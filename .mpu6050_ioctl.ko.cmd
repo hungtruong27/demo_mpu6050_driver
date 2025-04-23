@@ -1,0 +1,1 @@
+savedcmd_/home/hung/MPU6050_Driver/mpu6050_ioctl.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/hung/MPU6050_Driver/mpu6050_ioctl.ko /home/hung/MPU6050_Driver/mpu6050_ioctl.o /home/hung/MPU6050_Driver/mpu6050_ioctl.mod.o /home/hung/MPU6050_Driver/.module-common.o
